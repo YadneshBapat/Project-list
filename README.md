@@ -1,6 +1,6 @@
 # Project-list
 
-### Click on the project title to view project details 
+### Click on the project title for more details.
 
 [1. CAIXA bank analysis](https://github.com/YadneshBapat/project_CIAXA-bank-analysis)
 
